@@ -15,3 +15,4 @@ Modified BIOS of Alienware 13 R3
 - Change VR Current Limit of Core/IA VR Settings from 440 to 200
 - Using latest ME firmware v11.8.60.3561
 - Config for ME alternative mode.
+- Set Turbo Boost clock override to 36/34/30/28
