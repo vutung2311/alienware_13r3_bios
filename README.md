@@ -16,3 +16,6 @@ Modified BIOS of Alienware 13 R3
 - Using latest ME firmware v11.8.60.3561
 - Config for ME alternative mode.
 - Set Turbo Boost clock override to 36/34/30/28
+- Update disk controller EFI driver to IRST RAID for SATA 15.5.0.2875
+- Update video onboard EFI GOP driver SKL-CFL 9.0.1080
+- Update network OROM Intel Boot Agent CL 0.1.13
